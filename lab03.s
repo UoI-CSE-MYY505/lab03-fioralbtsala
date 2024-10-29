@@ -1,4 +1,5 @@
-a0 - img  // byte pointer
+
+# a0 - img  // byte pointer
 # a1 - columns
 # a2 - rows
 # a3 - out  // half-word pointer
